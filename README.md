@@ -38,6 +38,6 @@ You may push your branch as often as you want:
 git push origin feature/1234/add-a-gizmo
 ```
 
-When you're done, open a pull request to `master`. Any pull request which does not follow these requirements will be declined.
+When you're done, open a pull request to `master` with at least two reviewers. Do not merge the branch until it has at least two approvals. Any pull request which does not follow these requirements will be declined.
 
 **ANY DIRECT PUSH TO MASTER WILL RESULT IN REMOVAL FROM THE PROJECT AND A PERMANENT BAN FROM THE ORGANIZATION. DO NOT DO THIS, YOU WILL GIVE ME A HEADACHE.**
